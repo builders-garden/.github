@@ -1,6 +1,6 @@
 # 🌳 builders garden
 
-![builders garden cover](../images/cover.png)
+![builders garden cover](https://raw.githubusercontent.com/builders-garden/.github/main/images/cover.png)
 
 welcome to the **builders garden** github organization! we cultivate innovative projects in the web3 land, creating a fertile space for people to express themselves by building their ideas.
 
@@ -21,7 +21,7 @@ check out some of the projects we developed:
 
 we won several bounties and prizes in the hackathons we participated in from the following sponsors or projects:
 
-![builders garden bounties](../images/bounties.png)
+![builders garden bounties](https://raw.githubusercontent.com/builders-garden/.github/main/images/bounties.png)
 
 ## 📥 contact us
 
